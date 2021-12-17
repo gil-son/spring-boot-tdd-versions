@@ -2,5 +2,4 @@
 
 
 ## UML Diagram
-<a href="https://imgbox.com/3P3cbrgf" target="_blank"><img src="https://thumbs2.imgbox.com/86/db/3P3cbrgf_t.jpg" alt="image host"/></a>
-
+<a href="https://imgbox.com/sGIzRR4n" target="_blank"><img src="https://thumbs2.imgbox.com/c4/10/sGIzRR4n_t.png" alt="image host"/></a>
