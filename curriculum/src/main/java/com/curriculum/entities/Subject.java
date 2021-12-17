@@ -10,8 +10,6 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 
@@ -27,25 +25,11 @@ public class Subject implements Serializable{
 	public String name;
 	public String description;
 	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant createdAt;
-	
-	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant updatedAt;
-	
-	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant date; //moment
-	
 	
 	// Will use references from @JoinTable(name = "tb_product_category" ... now is possible get products associated with categories (JPA)
 	
-	@ManyToMany
-	@JoinTable(name = "tb_subject_student",
-			  joinColumns = @JoinColumn(name = "subject_id"),
-			  inverseJoinColumns = @JoinColumn(name = "student_id"))
-	Set<Student> students = new HashSet<>();
+	@ManyToMany(mappedBy = "students") // Will use references from @JoinTable(name = "tb_product_category" ... now is possible get products associated with categories (JPA)
+	private Set<Student> students = new HashSet<>();
 	
 	
 	
@@ -84,10 +68,6 @@ public class Subject implements Serializable{
 
 	public Set<Student> getStudents() {
 		return students;
-	}
-	
-	public Instant getDate() {
-		return date;
 	}
 	
 	

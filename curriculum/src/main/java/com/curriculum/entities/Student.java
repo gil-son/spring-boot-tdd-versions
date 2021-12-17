@@ -11,6 +11,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
@@ -27,21 +29,15 @@ public class Student implements Serializable{
 	public Long id;
 	public String name;
 	public Long age;
-		
-	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant createdAt;
-	
-	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant updatedAt;
-	
-	
-	@ManyToMany(mappedBy = "students") // Will use references from @JoinTable(name = "tb_product_category" ... now is possible get products associated with categories (JPA)
-	private Set<Subject> subjects = new HashSet<>();
-	
 	
 
+	@ManyToMany
+	@JoinTable(name = "tb_student_subject",
+			  joinColumns = @JoinColumn(name = "student_id"),
+			  inverseJoinColumns = @JoinColumn(name = "subject_id"))
+	Set<Subject> subjects = new HashSet<>();
+	
+	
 	public Student(){}
 	
 	public Student(Long id, String name, Long age) {
@@ -75,28 +71,7 @@ public class Student implements Serializable{
 		this.age = age;
 	}
 
-	public Instant getCreatedAt() {
-		return createdAt;
-	}
-
-	public void setCreatedAt(Instant createdAt) {
-		this.createdAt = createdAt;
-	}
-
-	public Set<Subject> getSubjects() {
-		return subjects;
-	}
 	
-	
-	@PrePersist
-	public void prePersist() {
-		createdAt = Instant.now();
-	}
-	
-	@PreUpdate
-	public void preUpdate() {
-		updatedAt = Instant.now();
-	}
 
 	// hashCode will Compare objects, but there is a small possibility that two or more objects will generate the same number
 	@Override
