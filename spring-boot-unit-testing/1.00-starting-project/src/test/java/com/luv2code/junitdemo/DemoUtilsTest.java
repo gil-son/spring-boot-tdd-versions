@@ -6,6 +6,9 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//@DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
+//@DisplayNameGeneration(DisplayNameGenerator.Simple.class)
+//@DisplayNameGeneration(DisplayNameGenerator.IndicativeSentences.class)
 class DemoUtilsTest {
 
     DemoUtils demoUtils;
@@ -17,9 +20,9 @@ class DemoUtilsTest {
     }
 
     @AfterEach
-    void tearDownAfterEach(){
+    void tear_Down_After_Each(){
         System.out.println("Running @AfterEach \n");
-    }
+    } // with Underscores
 
     @BeforeAll
     static void setupBeforeEachClass(){
@@ -33,6 +36,7 @@ class DemoUtilsTest {
 
 
     @Test
+//    @DisplayName("Equals and Not Equals")
     void testEqualsAndNotEquals(){
 
         System.out.println("Running test: testEqualsAndNotEquals");
@@ -43,6 +47,7 @@ class DemoUtilsTest {
     }
 
     @Test
+//    @DisplayName("Null and Not Null")
     void testNullAndNotNull(){
 
         System.out.println("Running test: testNullAndNotNull");
