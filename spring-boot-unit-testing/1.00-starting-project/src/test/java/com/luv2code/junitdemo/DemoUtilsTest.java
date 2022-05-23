@@ -82,4 +82,30 @@ class DemoUtilsTest {
         assertFalse(demoUtils.isGreater(gradeTwo, gradeOne), "This should return false");
     }
 
+    @DisplayName("Array Equals")
+    @Test
+    void testArrayEquals(){
+        String[] stringArray = {"A", "B", "C"};
+        assertArrayEquals(stringArray, demoUtils.getFirstThreeLettersOfAlphabet(), "Array should be the same");
+    }
+
+    @DisplayName("Iterable equals") // An "iterable" is an instance of a class that implements the java.lang.Iterable interface: ArrayList, LinkedList, HashSet, TreeSet
+    @Test
+    void testIterableEquals(){
+
+        List<String> theList = List.of("luv", "2", "code");
+
+        assertIterableEquals(theList, demoUtils.getAcademyInList(), "Expected list should be same as actual list");
+
+    }
+
+    @DisplayName("Lines match") // An "iterable" is an instance of a class that implements the java.lang.Iterable interface: ArrayList, LinkedList, HashSet, TreeSet
+    @Test
+    void testLinesMatch(){
+
+        List<String> theList = List.of("luv", "2", "code");
+
+        assertLinesMatch(theList, demoUtils.getAcademyInList(), "Lines should match");
+
+    }
 }
