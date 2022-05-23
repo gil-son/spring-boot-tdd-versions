@@ -40,12 +40,7 @@ public class DemoUtils {
         return null;
     }
 
-    public Boolean isGreater(int n1, int n2) {
-        if (n1 > n2) {
-            return true;
-        }
-        return false;
-    }
+    public Boolean isGreater(int n1, int n2) {return n1 > n2;}
 
     public String throwException(int a) throws Exception {
         if (a < 0) {
