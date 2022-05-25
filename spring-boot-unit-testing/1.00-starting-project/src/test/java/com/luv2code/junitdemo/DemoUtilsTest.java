@@ -10,6 +10,8 @@ import static org.junit.jupiter.api.Assertions.*;
 //@DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 //@DisplayNameGeneration(DisplayNameGenerator.Simple.class)
 //@DisplayNameGeneration(DisplayNameGenerator.IndicativeSentences.class)
+//@TestMethodOrder(MethodOrderer.MethodName.class)
+@TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 class DemoUtilsTest {
 
     DemoUtils demoUtils;
@@ -101,6 +103,7 @@ class DemoUtilsTest {
     }
 
     @DisplayName("Lines match") // An "iterable" is an instance of a class that implements the java.lang.Iterable interface: ArrayList, LinkedList, HashSet, TreeSet
+    @Order(2)
     @Test
     void testLinesMatch(){
 
@@ -111,6 +114,7 @@ class DemoUtilsTest {
     }
 
     @DisplayName("Throws and Does Not Throws")
+    @Order(1)
     @Test
     void testThrowsAndDoesNotThrow(){
 
@@ -121,6 +125,7 @@ class DemoUtilsTest {
 
 
     @DisplayName("Timeout")
+    @Order(0)
     @Test
     void testTimeout(){
         assertTimeoutPreemptively(Duration.ofSeconds(3), () -> {demoUtils.checkTimeout();}, "Method should execute in 3 seconds");
