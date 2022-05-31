@@ -39,6 +39,14 @@ class DemoUtilsTest {
 
     @DisplayName("Equals and Not Equals")
     @Test
+    void testMultiply(){
+        assertEquals(12, demoUtils.multiply(4, 3));
+    }
+
+
+
+    @DisplayName("Equals and Not Equals")
+    @Test
     void testEqualsAndNotEquals(){
 
         System.out.println("Running test: testEqualsAndNotEquals");
