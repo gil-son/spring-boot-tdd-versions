@@ -17,7 +17,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Optional;
 
-// Spring + JUnit
+// Spring + JUnit 4
 @RunWith(SpringRunner.class)
 public class BookingServiceTest {
 
