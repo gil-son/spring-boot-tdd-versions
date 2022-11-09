@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="860f8606-ac18-468c-84eb-c9bd64aa7988" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/java/com/curriculum/CurriculumApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/java/com/curriculum/entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/java/com/curriculum/entities/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/java/com/curriculum/repositories/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/java/com/curriculum/repositories/SubjectRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/java/com/curriculum/resources/StudentResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/resources/application-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../curriculum/src/test/java/com/curriculum/CurriculumApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/main/java/br/com/algaworks/filmes/FilmesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/main/java/br/com/algaworks/filmes/controller/FilmeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/main/java/br/com/algaworks/filmes/model/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/main/java/br/com/algaworks/filmes/service/FilmeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/test/java/br/com/algaworks/filmes/FilmesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../films/src/test/java/br/com/algaworks/filmes/controller/FilmeControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/.idea/curso-mergulho-spring-rest-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/diagrama-de-classes.mdj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/diagrama-de-classes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/src/main/java/com/algaworks/algalog/AlgalogApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo1/algalog-api/src/test/java/com/algaworks/algalog/AlgalogApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/AlgalogApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/api/exceptionhandler/ApiExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/api/exceptionhandler/Problema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/domain/exception/NegocioException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/domain/repository/ClienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/java/com/algaworks/algalog/domain/service/CatalogoClienteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/resources/db/migration/V001__cria-tabela-cliente.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/resources/db/migration/V002__renomeia-coluna-telefone.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo2/algalog-api/src/test/java/com/algaworks/algalog/AlgalogApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/AlgalogApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/assembler/EntregaAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/assembler/OcorrenciaAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/controller/EntregaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/controller/OcorrenciaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/exceptionhandler/ApiExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/exceptionhandler/Problema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/ClienteResumoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/DestinatarioModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/EntregaModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/OcorrenciaModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/input/ClienteIdInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/input/DestinatarioInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/input/EntregaInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/api/model/input/OcorrenciaInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/common/ModelMapperConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/exception/EntidadeNaoEncontradaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/exception/NegocioException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Destinatario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Entrega.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Ocorrencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/model/StatusEntrega.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/repository/ClienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/repository/EntregaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/service/BuscaEntregaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/service/CatalogoClienteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/service/FinalizacaoEntregaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/service/RegistroOcorrenciaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/java/com/algaworks/algalog/domain/service/SolicitacaoEntregaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/resources/db/migration/V001__cria-tabela-cliente.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/resources/db/migration/V002__renomeia-coluna-telefone.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/resources/db/migration/V003__cria-tabela-entrega.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/resources/db/migration/V004__cria-tabela-ocorrencia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/curso-mergulho-spring-rest-main/modulo3/algalog-api/src/test/java/com/algaworks/algalog/AlgalogApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/java/com/javapoint/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/java/com/javapoint/SpringBootBookApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/java/com/javapoint/controller/BooksController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/java/com/javapoint/entity/Books.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/java/com/javapoint/repository/BooksRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/java/com/javapoint/service/BooksService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/test/java/com/javapoint/SpringBootCrudSwSdaAeAdtoAcStAeAvApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/test/java/com/javapoint/controller/BooksControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/test/java/com/javapoint/repository/BookRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/book/src/test/java/com/javapoint/service/BookServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/main/java/com/booking/tdd/booking/BookingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/main/java/com/booking/tdd/booking/controller/BookingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/main/java/com/booking/tdd/booking/model/BookingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/main/java/com/booking/tdd/booking/repository/BookingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/main/java/com/booking/tdd/booking/service/BookingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/test/java/com/booking/tdd/booking/BookingApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/test/java/com/booking/tdd/booking/controller/BookingControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/test/java/com/booking/tdd/booking/model/BookingModelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/just-a-class/booking/src/test/java/com/booking/tdd/booking/service/BookingServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HJy74lBL1BbdtphP40vzs0fhJE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/009967631/Desktop/repo/spring/springboot/spring-boot-tdd-versions/proj/eng/curriculum"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="filmes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="filmes" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="860f8606-ac18-468c-84eb-c9bd64aa7988" name="Changes" comment="" />
+      <created>1668017314482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668017314482</updated>
+    </task>
+    <servers />
+  </component>
+</project>
